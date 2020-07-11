@@ -8,3 +8,6 @@
 great resource for developing a strong mental model and intuition about the mechanism underlying deep neural networks.
 
 [Deep Learning by Goodfellow](http://www.deeplearningbook.org/) For a thorough introduction and reference
+
+## Deep Learning Frameworks and online material
+[Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch) It covers the basics and abstractions in great detail, tearing apart the underpinnings of data structures like tensors and neural networks and making sure you understand their implementation.
