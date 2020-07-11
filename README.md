@@ -1,5 +1,8 @@
 # deep_learning_material
 
+## Basic Deep Learning online Course 
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more.
+
 ## Full Stack Deep Learning Course
 [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/) helps you bridge the gap from training machine learning models to deploying AI systems in the real world
 
